@@ -5221,7 +5221,7 @@
       "@id" : "http://www.iec.ch/TC57/CIM#MechanicalLoadUserDefined"
     },
     "indoorSpaceCooling" : {
-      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargonandCIM#indoorSpaceCooling"
+      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargon2#indoorSpaceCooling"
     },
     "AggregatedPnode.participationCategory" : {
       "@id" : "http://www.iec.ch/TC57/CIM#AggregatedPnode.participationCategory",
@@ -5809,7 +5809,7 @@
       "@type" : "http://www.w3.org/2001/XMLSchema#string"
     },
     "hydrogen" : {
-      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargonandCIM#hydrogen"
+      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargon2#hydrogen"
     },
     "AsynchronousMachine.nominalSpeed" : {
       "@id" : "http://www.iec.ch/TC57/CIM#AsynchronousMachine.nominalSpeed",
@@ -11943,7 +11943,7 @@
       "@type" : "@id"
     },
     "geothermal" : {
-      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargonandCIM#geothermal"
+      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargon2#geothermal"
     },
     "TelephoneNumber.internationalPrefix" : {
       "@id" : "http://www.iec.ch/TC57/CIM#TelephoneNumber.internationalPrefix",
@@ -20096,7 +20096,7 @@
       "@type" : "@id"
     },
     "indoorEnvironment" : {
-      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargonandCIM#indoorEnvironment"
+      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargon2#indoorEnvironment"
     },
     "DispatchInstReply.certificationName" : {
       "@id" : "http://www.iec.ch/TC57/CIM#DispatchInstReply.certificationName",
@@ -28331,7 +28331,7 @@
       "@type" : "@id"
     },
     "biomass" : {
-      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargonandCIM#biomass"
+      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargon2#biomass"
     },
     "ISOStandard" : {
       "@id" : "http://www.iec.ch/TC57/CIM#ISOStandard"
@@ -36931,7 +36931,7 @@
       "@type" : "@id"
     },
     "indoorSpaceHeating" : {
-      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargonandCIM#indoorSpaceHeating"
+      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargon2#indoorSpaceHeating"
     },
     "HydroGeneratingUnit.hydroUnitWaterCost" : {
       "@id" : "http://www.iec.ch/TC57/CIM#HydroGeneratingUnit.hydroUnitWaterCost",
@@ -42700,7 +42700,7 @@
       "@id" : "http://www.iec.ch/TC57/CIM#OASISMeasType"
     },
     "biogas" : {
-      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargonandCIM#biogas"
+      "@id" : "http://www.semanticweb.org/stu/ontologies/2024/9/sargon2#biogas"
     },
     "RatioTapChangerTablePoint.RatioTapChangerTable" : {
       "@id" : "http://www.iec.ch/TC57/CIM#RatioTapChangerTablePoint.RatioTapChangerTable",
