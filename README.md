@@ -179,8 +179,6 @@ This ontology is intended for:
 
 ## Version Information
 
-You can fill this section with your own project details.
-
 - **Ontology name:** SARGON2
 - **Version:** 2.0
 - **Issued date:** 2025-03-25
@@ -197,8 +195,6 @@ This ontology is distributed under:
 ---
 
 ## Authors / Maintainers
-
-You can edit this section and add the relevant names.
 
 - **Author:** Su Mon Tun, Than Myint Hlaing, Zhiyu Pan
 - **Organization:** ACS RWTH
